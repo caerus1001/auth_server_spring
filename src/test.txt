@@ -1,0 +1,17 @@
+http://localhost:8081/oauth2/authorize?response_type=code&client_id=client&scope=openid&redirect_uri=http://spring.io/auth&code_challenge=a1VSr4TCp-G9NwZ0tYu5lFKRJ2Ma9_FYInUshD9z3hY&code_challenge_method=S256
+
+http://localhost:8081/oauth2/authorize?
+response_type=code&
+client_id=client&
+scope=openid&
+redirect_uri=http://spring.io/auth&
+code_challenge=a1VSr4TCp-G9NwZ0tYu5lFKRJ2Ma9_FYInUshD9z3hY&
+code_challenge_method=S256
+
+http://localhost:8081/oauth2/token?client_id=client&redirect_uri=http://spring.io/auth&grant_type=authorization_code&code=hZFW6R-Co8j_bhPWRMSrVi2pu2ZkKTsU1VXU6LnYhcMfAxktiffxmn1YWmskgDKj_yAjwn8T_w8sgZouNlWcjqC1RkENF5_pnwt1wdCZlv36DPlH0dQMZv8TQm5icv0F&code_verifier=7ATIfaKDUpxDrpqmTMUoIVCqxK6YbdDk4r2CUNsW8KQ
+
+http://localhost:8081/oauth2/token?
+client_id=client&
+redirect_uri=http://spring.io/auth&grant_type=authorization_code&
+code=hZFW6R-Co8j_bhPWRMSrVi2pu2ZkKTsU1VXU6LnYhcMfAxktiffxmn1YWmskgDKj_yAjwn8T_w8sgZouNlWcjqC1RkENF5_pnwt1wdCZlv36DPlH0dQMZv8TQm5icv0F&
+code_verifier=7ATIfaKDUpxDrpqmTMUoIVCqxK6YbdDk4r2CUNsW8KQ
